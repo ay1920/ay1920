@@ -7,6 +7,7 @@
 [![Blog amity](https://img.shields.io/badge/blog-amity-brightgreen)](https://amity786.medium.com/)
 [![GitHub amity](https://img.shields.io/github/followers/ay1920?label=follow&style=social)](https://github.com/ay1920)
 ![](https://komarev.com/ghpvc/?username=ay1920)
+[![Contact amity](https://img.shields.io/badge/contact-amity-brightgreen)](mailto:amity.swarn@gmail.com)
 
 ### <img src="https://media.giphy.com/media/kYYCHyJNrrtRHAK2e6/giphy.gif" width="50" align='center'> A little more about me...  
 
@@ -20,8 +21,6 @@ const amity = {
       3rdPartyLibs: "Firebase", "Scandit", "Chat SDK", "Agora", "Appsflyer", "Google Analytics"
       others: "AWS Security Services", "RESTAPI" , "MS-Office", "Raspberry Pi"
   }
-  
-  
 }
 ```
 
