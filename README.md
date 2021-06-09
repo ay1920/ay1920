@@ -6,7 +6,6 @@
 
 [![Linkedin: amity](https://img.shields.io/badge/-amityadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-yadav-859bb56a/)](https://www.linkedin.com/in/amit-yadav-859bb56a/)
 [![Blog amity](https://img.shields.io/badge/blog-amity-brightgreen)](https://amity786.medium.com/)
-[![GitHub amity](https://img.shields.io/github/followers/ay1920?label=follow&style=social)](https://github.com/ay1920)
 ![](https://komarev.com/ghpvc/?username=ay1920)
 [![Contact amity](https://img.shields.io/badge/contact-amity-brightgreen)](mailto:amity.swarn@gmail.com)
 
