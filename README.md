@@ -1,5 +1,5 @@
 <h2> Hi, I'm Amit Yadav! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" align='center'></h2>
-<img align='right' src="https://media.giphy.com/media/kcZlnhiaB1p76tKS6S/giphy.gif" width="230" >
+<img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230" >
 <p><em>Software Developer at <a href="https://www.aqbsolutions.com/">aQb Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
