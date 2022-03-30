@@ -1,6 +1,6 @@
 <h2> Hi, I'm Amit Yadav! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" align='center'></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="150" > -->
-<p><em>Software Developer at <a href=https://www.ibm.com/in-en">IBM India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior System Engineer at <a href=https://www.ibm.com/in-en">IBM India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
